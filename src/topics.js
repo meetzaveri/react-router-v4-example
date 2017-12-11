@@ -8,7 +8,7 @@ import {
 class Topics extends React.Component{
   constructor(props){
     super(props);
-    props={match:{}};
+    props={};
   }
   render() {
     return (
